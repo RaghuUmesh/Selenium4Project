@@ -3,4 +3,37 @@
   <groupId>Selenium4Project</groupId>
   <artifactId>Selenium4Project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+   <!-- Core Developers -->
+  <developers>
+      <developer>
+        <id>E1155</id>
+        <name>Raghu G K</name>
+        <roles>
+          <role>QA</role>
+        </roles>
+      </developer>
+      
+      <developer>
+        <id>E0713</id>
+        <name>Umesha H N</name>
+        <roles>
+          <role>QA</role>
+        </roles>
+      </developer>
+      
+    </developers>
+
+    <!-- Contributors -->
+    <contributors>
+        <contributor>
+            <name>Umesh and Raghu</name>
+            <roles>
+                <role>QA</role>
+            </roles>
+        </contributor>
+     </contributors>
+  
+  
+  
 </project>
